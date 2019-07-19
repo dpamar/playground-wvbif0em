@@ -7,13 +7,13 @@ However, even if there are only a few steps, all the divisions, sums, ... take a
 A very naive approach would be to check 1, 2, 3, ... : is the current value still less than sqrt(n), or more precisely x^2 <= n ?
 
 And this can be achieved very efficiently in BF, by subtracting odd numbers : example with 42
-* test 1: 42 - 1 = 41 ( = 42 - 1^2), positive
-* test 2: 41 - 3 = 38 ( = 42 - 2^2), positive
-* test 3: 38 - 5 = 33 ( = 42 - 3^2), positive
-* test 4: 33 - 7 = 26 ( = 42 - 4^2), positive
-* test 5: 26 - 9 = 17 ( = 42 - 5^2), positive
-* test 6: 17 - 11 = 6 ( = 42 - 6^2), positive
-* test 7:  6 - 13 = -7 ( = 42 - 7^2), negative !
+* test 0: 42 - 1 = 41 ( = 42 - 1^2), positive
+* test 1: 41 - 3 = 38 ( = 42 - 2^2), positive
+* test 2: 38 - 5 = 33 ( = 42 - 3^2), positive
+* test 3: 33 - 7 = 26 ( = 42 - 4^2), positive
+* test 4: 26 - 9 = 17 ( = 42 - 5^2), positive
+* test 5: 17 - 11 = 6 ( = 42 - 6^2), positive
+* test 6:  6 - 13 = -7 ( = 42 - 7^2), negative !
 
 Result : 6
 
