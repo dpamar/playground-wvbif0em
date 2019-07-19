@@ -10,8 +10,8 @@ plan:
   statement: markdowns/comma.md
 - title: Compare integers
   statement: markdowns/greater_less.md
-- title: Integer square root, part 1: Newton's method
+- title: Integer square root - part 1, Newton's method
   statement: markdowns/sqrt.md
-- title: Integer square root, part 2: Naive but efficient method
+- title: Integer square root - part 2, Naive but efficient method
   statement: markdowns/sqrt_2.md
 
