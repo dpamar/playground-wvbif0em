@@ -4,4 +4,6 @@ plan:
   statement: markdowns/welcome.md
 - title: Euclidean division
   statement: markdowns/euclidean.md
+- title: Print values as decimal numbers
+  statement: markdowns/print.md
 
