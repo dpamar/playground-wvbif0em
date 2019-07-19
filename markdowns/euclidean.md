@@ -88,7 +88,7 @@ This code divides 131 by 2 and print quotient (65, ASCII code A) as many times a
 
 Result : A
 
-You can replace first line by 
+You can replace first two lines by these examples
 * +++++[->+++++<]->[-<++++++>]>>>+++<<<< : 149 = 49 x 3 + 2, it prints "1" 2 times
 * ++++++++[->++++<]+++>[-<+++++>]>>>++++<<<< : 163 = 40 x 4 + 3, it prints "(" 3 times
 * etc...
