@@ -6,4 +6,6 @@ plan:
   statement: markdowns/euclidean.md
 - title: Print values as decimal numbers
   statement: markdowns/print.md
+- title: Read comma-separated integer values
+  statement: markdowns/comma.md
 
