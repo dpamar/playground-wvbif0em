@@ -8,4 +8,8 @@ plan:
   statement: markdowns/print.md
 - title: Read comma-separated integer values
   statement: markdowns/comma.md
+- title: Compare integers
+  statement: markdowns/greater_less.md
+- title: Integer square root, part 1: Newton's method
+  statement: markdowns/sqrt.md
 
