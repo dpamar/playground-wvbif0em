@@ -7,7 +7,7 @@ This code can be obviously adapted from GE / LT to LE / GT
 
 # Let's start
 
-* Memory: A, B, O, O
+* Memory: A, B, 0, 0
 * Cursor: on A
 * Input: any
 
