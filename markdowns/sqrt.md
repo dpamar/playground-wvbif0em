@@ -70,7 +70,7 @@ We need to stop when X<=Y (this explains why this post comes after the LE / GT o
 * Loop
   * Here, X <= Y. Answer is X
 
-_Note_: this algorithm works modulo 255. And not just about N : 2Y as well has to be less than 255 or it will fail (e.g. 255 does not work, because 2Y = 256 = 0)
+_Note_: this algorithm works modulo 256. And not just about N : 2Y as well has to be less than 255 or it will fail (e.g. 255 does not work, because 2Y = 256 = 0)
 
 # Code
 ```
